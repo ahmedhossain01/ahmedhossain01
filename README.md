@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://pbs.twimg.com/profile_banners/1822585306438336512/1723558466/600x200)
+
 
 ### Hi there 👋, Ahmed Hossain
 #### Full Stack Web Developer
